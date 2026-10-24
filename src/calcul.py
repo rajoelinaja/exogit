@@ -43,3 +43,7 @@ def moyenne(quantites):
 
 def maximum(quantites):
     return max(quantites)
+
+
+def minimum(quantites):
+    return min(quantites)
