@@ -35,3 +35,7 @@ def cl_en_ml(cl):
 
 def ml_en_cl(ml):
     return ml / 10
+
+
+def moyenne(quantites):
+    return sum(quantites) / len(quantites)
