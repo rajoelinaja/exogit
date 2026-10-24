@@ -31,3 +31,7 @@ def en_grammes(kilos):
 
 def cl_en_ml(cl):
     return cl * 10
+
+
+def ml_en_cl(ml):
+    return ml / 10
