@@ -6,7 +6,7 @@ def doubler(quantite):
 
 
 def adapter(quantite, personnes_origine, personnes_voulues):
-    return quantite * personnes_voulues / personnes_origine
+    return quantite * personnes_origine / personnes_voulues
 
 
 def total(quantites):
