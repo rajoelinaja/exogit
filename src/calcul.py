@@ -39,3 +39,7 @@ def ml_en_cl(ml):
 
 def moyenne(quantites):
     return sum(quantites) / len(quantites)
+
+
+def maximum(quantites):
+    return max(quantites)
