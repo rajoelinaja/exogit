@@ -23,3 +23,7 @@ def moitie(quantite):
 
 def en_kilos(grammes):
     return grammes / 1000
+
+
+def en_grammes(kilos):
+    return kilos * 1000
