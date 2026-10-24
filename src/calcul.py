@@ -11,3 +11,7 @@ def adapter(quantite, personnes_origine, personnes_voulues):
 
 def total(quantites):
     return sum(quantites)
+
+
+def tripler(quantite):
+    return quantite * 3
