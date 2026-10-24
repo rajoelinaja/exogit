@@ -19,3 +19,7 @@ def tripler(quantite):
 
 def moitie(quantite):
     return quantite / 2
+
+
+def en_kilos(grammes):
+    return grammes / 1000
