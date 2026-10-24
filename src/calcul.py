@@ -15,3 +15,7 @@ def total(quantites):
 
 def tripler(quantite):
     return quantite * 3
+
+
+def moitie(quantite):
+    return quantite / 2
